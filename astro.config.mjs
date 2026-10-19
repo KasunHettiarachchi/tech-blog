@@ -5,7 +5,7 @@ import remarkMath from 'remark-math';
 import rehypeKatex from 'rehype-katex';
 
 export default defineConfig({
-  site: 'https://eng-kasun.github.io',
+  site: 'https://KasunHettiarachchi.github.io',
   base: '/tech-blog',
   integrations: [mdx(), tailwind()],
   markdown: {
